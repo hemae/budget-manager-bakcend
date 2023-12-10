@@ -1,0 +1,1 @@
+export {getTotalRow} from './getTotalRow'

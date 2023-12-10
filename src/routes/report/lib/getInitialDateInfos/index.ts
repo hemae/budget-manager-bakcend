@@ -1,0 +1,1 @@
+export {getInitialDateInfos} from './getInitialDateInfos'

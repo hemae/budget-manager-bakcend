@@ -1,0 +1,1 @@
+export {putRateValuesToBody} from './putRateValuesToBody'

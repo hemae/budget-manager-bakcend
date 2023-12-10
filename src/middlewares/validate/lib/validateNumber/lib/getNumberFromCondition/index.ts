@@ -1,0 +1,1 @@
+export {getNumberFromCondition} from './getNumberFromCondition'

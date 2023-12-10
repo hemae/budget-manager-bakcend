@@ -1,0 +1,1 @@
+export {getByCategory} from './getByCategory'

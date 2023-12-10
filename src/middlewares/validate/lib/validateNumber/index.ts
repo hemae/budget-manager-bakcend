@@ -1,0 +1,1 @@
+export {validateNumber} from './validateNumber'

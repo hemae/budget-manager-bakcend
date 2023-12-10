@@ -1,0 +1,1 @@
+export {CRUDController} from './CRUDController'
